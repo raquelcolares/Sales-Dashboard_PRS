@@ -1,2 +1,9 @@
-# Sales-Dashboard_PRS
-My repository of the "Optimize your time Workshop" by PRS Tecnologia
+# Sales Dashboard
+## PRS Tecnologia
+
+   <img width="300" src="https://github.com/raquelcolares/Sales-Dashboard_PRS/blob/main/logo%20PRS.png">
+
+This repository shows my project during the "Optimize your time Workshop" by PRS Tecnologia. On this workshop, I did a sales dashboard using techniques to improve the layout and optimizing time. 
+
+
+**PRS Tecnologia** - https://prstecnologia.com.br/
